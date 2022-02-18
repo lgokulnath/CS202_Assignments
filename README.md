@@ -7,12 +7,16 @@ Team members:
 
 # Command to run the SAT Solver
 ##### For Windows
-`g++ -std=c++11 sat_solver.cpp -o sat_solver`
-`.\sat_solver`
+```
+g++ -std=c++11 sat_solver.cpp -o sat_solver
+.\sat_solver
+```
 
 ##### For Linux/Mac
-`g++ -std=c++11 sat_solver.cpp`
-`./a.out`
+```
+g++ -std=c++11 sat_solver.cpp
+./a.out
+```
 
 # Input
 The input is formula in the DIMACS representation. All the formulas are in the testcases folder.
