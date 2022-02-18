@@ -5,7 +5,7 @@ Team members:
 
 [Detailed Report](../report.pdf)
 
-# Command to run the SAT Solver
+## Command to run the SAT Solver
 #### For Windows
 ```
 g++ -std=c++11 sat_solver.cpp -o sat_solver
