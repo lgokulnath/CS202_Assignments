@@ -3,7 +3,7 @@ Team members:
 1. L Gokulnath
 2. Harsh Trivedi
 
-[Detailed Report](../CS202_report.pdf)
+[Detailed Report](CS202_report.pdf)
 
 ## Command to run the SAT Solver
 #### For Windows
